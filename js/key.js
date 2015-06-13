@@ -1,8 +1,8 @@
 /*請貼上fackbook初始化的相關程式碼*/
 /*https://developers.facebook.com/*/
- window.fbAsyncInit = function() {
+  window.fbAsyncInit = function() {
     FB.init({
-      appId      : '838463579536966',
+      appId      : '450822515091763',
       xfbml      : true,
       version    : 'v2.3'
     });
